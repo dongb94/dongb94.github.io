@@ -1,22 +1,24 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+remote_theme :    mmistakes/hpstr-jekyll-theme
+title:            "Site Title"
+description:      "Describe your website here."
+disqus_shortname: "HouseElf"
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:              "https://dongb94.github.io"
+baseurl :         ""
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           "DonggeonByeon"
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  email:          "dongb94@gmail.com"
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         "https://github.com/dongb94"
   stackexchange:  
   linkedin:       
   instagram:      
