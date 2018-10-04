@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "도비는 착한 집요정이에요"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "House Elf"
+description              : "Donggeon Byeon(변동건)"
 url                      : "https://dongb94.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "House Elf"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "도비는 착한 집요정이에요"
+  location         : "GwangJu SouthKorea"
   email            :
   links:
     - label: "Email"
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/dongb94"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
