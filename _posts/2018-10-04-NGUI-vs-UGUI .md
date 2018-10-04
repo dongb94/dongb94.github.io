@@ -5,9 +5,11 @@ categories: Unity
 ---
 ## NGUI (Next-Gen UI)
 
-* UGUI가 나오기 이전부터 많은 개발사들이 사용하던 플러그인
+* UGUI가 나오기 이전부터 많은 개발사가 사용하던 플러그인
 * 레퍼런스가 많다
-* 다양한 사이즈의 화면에 최적화 시키기 쉽다 (비교적)
+* 다양한 크기의 화면에 최적화시키기 쉽다 (비교적)
+* 정적인 화면에 최적화가 잘되어 있다.
+* 동적 할당을 할 때 Sprite를 다시 그리기 때문에 비효율적
 
 ## UGUI (Unity GUI)
 
@@ -21,4 +23,8 @@ categories: Unity
 * 소스 코드가 공개되어 있음 (https://bitbucket.org/Unity-Technologies/ui)
 * UI 확장 Asset도 쉽게 구할 수 있음
 * 비공식 UI 확장 Component도 소스가 공개되어 있음 (https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
+* 동적 할당이 편함
+* 아직 버그가 많다고 하다
 
+
+상황에 맞춰서 사용하면 될듯하다.
