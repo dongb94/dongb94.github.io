@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "House Elf"
-  avatar           : "Dobby.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/dobby.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Donggeon Byeon(변동건)"
   location         : "GwangJu SouthKorea"
   email            :
