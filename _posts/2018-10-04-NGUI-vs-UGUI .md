@@ -3,13 +3,13 @@ title: "NGUI vs UGUI"
 date: 2018-10-04 10:00:28 -0400
 categories: Unity
 ---
-# NGUI (Next-Gen UI)
+## NGUI (Next-Gen UI)
 
 * UGUI가 나오기 이전부터 많은 개발사들이 사용하던 플러그인
 * 레퍼런스가 많다
 * 다양한 사이즈의 화면에 최적화 시키기 쉽다 (비교적)
 
-# UGUI (Unity GUI)
+## UGUI (Unity GUI)
 
 * Unity Engine (4.6 이후부터) 내에서 제공하는 UI System
 * 추가 구매 없이 바로 사용 가능
