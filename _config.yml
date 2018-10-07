@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+ theme                    : "minimal-mistakes-jekyll"
+#remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "House Elf"
-  avatar           : "/dobby.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/picture/dobby.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Donggeon Byeon(변동건)"
   location         : "GwangJu SouthKorea"
   email            :
@@ -253,16 +253,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
