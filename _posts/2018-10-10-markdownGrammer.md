@@ -1,7 +1,9 @@
-------------------------------
-title:"Markdown Grammer"
+---
+title: "Welcome to Jekyll!"
+date: 2018-10-10 10:19:28 -0400
+categories: .md markdown
+---
 
-------------------------------
 
 
 [공통] 마크다운 markdown 작성법
